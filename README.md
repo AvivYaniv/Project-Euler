@@ -1,7 +1,7 @@
 # [Project Euler](https://projecteuler.net/)
 
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Leonhard_Euler_2.jpg" width="30%"/>
+    <img src="https://github.com/AvivYaniv/Project-Euler/blob/master/logo/LeonhardEuler.jpg" width="30%"/>
 <p/>
 
 ## What is Project Euler? <br/>
