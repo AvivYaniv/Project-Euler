@@ -9,3 +9,7 @@ Project Euler is a series of challenging mathematical/computer programming probl
 
 ## Who are the problems aimed at? <br/>
 The intended audience include students for whom the basic curriculum is not feeding their hunger to learn, adults whose background was not primarily mathematics but had an interest in things mathematical, and professionals who want to keep their problem solving and mathematics on the cutting edge.
+
+<p align="center">
+    <img src="https://projecteuler.net/profile/Aviv_Yaniv.png" width="50%"/>
+<p/>
