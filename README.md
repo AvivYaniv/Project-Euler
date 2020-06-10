@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/AvivYaniv/Project-Euler.svg)](http://hits.dwyl.com/AvivYaniv/Project-Euler)
+
 # [Project Euler](https://projecteuler.net/)
 
 <p align="center">
